@@ -1,0 +1,36 @@
+body {
+    font-family: monospace;
+    background-color: #1f1f1f;
+    color: #e0e0e0;
+}
+
+.main_div {
+    width: 90vw;
+    max-width: 300px;
+    margin: 0 auto;
+}
+
+.heading {
+    text-align: center;
+}
+
+p {
+    height: 31px;
+    font-size: 20px;
+    text-align: center;
+    margin: 0 0 10px;
+}
+
+input {
+    display: block;
+    width: 10px;
+    background-color: #333333;
+    color: inherit;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 0 auto;
+    font-family: inherit;
+    font-size: 20px;
+    text-align: center;
+}
